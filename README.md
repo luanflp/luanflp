@@ -1,4 +1,4 @@
-Oi 👋, me nome é Luan
+Oi 👋, me nome é Luan!
 
 <!--
 **luanflp/luanflp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
